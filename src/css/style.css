@@ -252,10 +252,11 @@ header img {
     margin: 0;
     padding: 0;
     list-style: none;
+    max-width: 90%;
 }
 
 .skills .hard-skills ul li img {
-    width: 3.125rem;
+    width: 3rem;
     margin: 0 .5rem;
 }
 

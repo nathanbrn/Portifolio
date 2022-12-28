@@ -71,13 +71,93 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "name": "Pokedex",
       "url": "https://github.com/nathanbrn/Pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na Udemy para a criação de um jogo de Mata Mosca",
+      "name": "Links Sociais",
+      "url": "https://github.com/nathanbrn/Links_Sociais",
+      "github": true
+    },
+    {
+      "name": "Web Slider",
+      "url": "https://github.com/nathanbrn/Web_Slider",
+      "github": true
+    },
+    {
+      "name": "Cardápio Digital",
+      "url": "https://github.com/nathanbrn/Cardapio_digital",
+      "github": true
+    },
+    {
+      "name": "RocketPay",
+      "url": "https://github.com/nathanbrn/explorer_lab",
+      "github": true
+    },
+    {
+      "name": "TecBlog",
+      "url": "https://github.com/nathanbrn/Projeto_TecBlog",
+      "github": true
+    },
+    {
+      "name": "Chale Hotel",
+      "url": "https://github.com/nathanbrn/Projeto_ChaleHotel",
+      "github": true
+    },
+    {
+      "name": "Muséu Nacional",
+      "url": "https://github.com/nathanbrn/Projeto_MuseuNacional",
+      "github": true
+    },
+    {
+      "name": "Calculadora",
+      "url": "https://github.com/nathanbrn/Projeto_Calculadora",
+      "github": true
+    },
+    {
+      "name": "Orçamento Pessoal",
+      "url": "https://github.com/nathanbrn/Projeto_OrcamentoPessoal",
+      "github": true
+    },
+    {
+      "name": "Fábrica de Memes",
+      "url": "https://github.com/nathanbrn/Maratona_FabricaMemes",
+      "github": true
+    },
+    {
+      "name": "Orçamento Pessoal",
+      "url": "https://github.com/nathanbrn/Projeto_OrcamentoPessoal",
+      "github": true
+    },
+    {
+      "name": "Jogo Mata Mosca",
       "url": "https://github.com/nathanbrn/Projeto_JogoMataMosca",
+      "github": true
+    },
+    {
+      "name": "WaiterApp API",
+      "url": "https://github.com/nathanbrn/WaiterAppApi",
+      "github": true
+    },
+    {
+      "name": "WaiterApp FrontEnd Cozinha",
+      "url": "https://github.com/nathanbrn/WaiterAppFrontEndCozinha",
+      "github": true
+    },
+    {
+      "name": "WaiterApp App",
+      "url": "https://github.com/nathanbrn/WaiterApp_App",
+      "github": true
+    },
+    {
+      "name": "OneBitLife",
+      "url": "https://github.com/nathanbrn/OneBitLife",
+      "github": true
+    },
+    {
+      "name": "WaiterApp App",
+      "url": "https://github.com/nathanbrn/WaiterApp_App",
       "github": true
     }
   ],
