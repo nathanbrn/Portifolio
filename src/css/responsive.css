@@ -1,0 +1,39 @@
+@media only screen and (min-width: 768px) {
+    .main {
+        max-width: 1024px;
+        margin: 0 auto;   
+    }
+
+    .main::before, .main::after  {
+        width: 70vw;
+    }
+
+    header {
+        display: grid;
+        grid-template-areas:
+            "photo title"
+            "photo information"
+        ;
+    }
+
+    header img {
+        grid-area: photo;
+        margin: 0 auto;
+    }
+
+    header h1 {
+        grid-area: title;
+        text-align: start;
+    }
+
+    header .information {
+        grid-area: information;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .skills {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
