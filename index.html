@@ -15,23 +15,21 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
 
-    <script src="https://unpkg.com/phosphor-icons"></script>
-
     <title>Portifólio</title>
 </head>
 <body>
     <div class="main">
         <header>
-            <img src="src/assets/img/profile.jfif" alt="profile">
-            <h1>Olá, <br/>eu sou Breno N M Matos</h1>
+            <img src="src/assets/img/my_photo.png" id="profile.photo" alt="profile ">
+            <h1>Olá, <br/>eu sou <span id="profile.name">Carregando...</span></h1>
             <div class="information">
-                <p class="job">Developer Front-End</p>
-                <p class="location">Ceará - BR</p>
+                <p class="job" id="profile.job">Carregando...</p>
+                <p class="location" id="profile.location">Carregando...</p>
                 <p class="phone">
-                    <a href="tel: (88) 9 8117-4679">(88) 9 8117-4679</a>
+                    <a href="tel: (88) 9 8117-4679" id="profile.phone">Carregando...</a>
                 </p>
                 <p class="email">
-                    <a href="mailto: brenonathanael@gmail.com">brenonathanael@gmail.com</a>
+                    <a href="mailto: brenonathanael@gmail.com" id="profile.email">Carregando...</a>
                 </p>
             </div>
         </header>
@@ -148,5 +146,7 @@
     </div>
 
     <script src="src/js/acordeon.js"></script>
+    <script src="src/js/api.js"></script>
+    <script src="src/js/main.js"></script>
 </body>
 </html>
