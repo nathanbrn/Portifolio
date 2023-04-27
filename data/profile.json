@@ -1,171 +1,156 @@
 {
-  "name": "Breno N M Matos",
-  "photo": "https://avatars.githubusercontent.com/u/110872280?v=4",
-  "job": "Developer Front-end",
-  "location": "Ceará - CE",
-  "phone": "(88) 98117-4679",
-  "email": "brenonathanael@gmail.com",
-  "skills": {
-    "hardSkills": [
-      {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
-      },
-      {
-        "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-      },
-      {
-        "name": "TypeScript",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      },
-      {
-        "name": "Css",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-      },
-      {
-        "name": "Html",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-      },
-      {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      },
-      {
-        "name": "Python",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-      },
-      {
-        "name": "MySQL",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-      },
-      {
-        "name": "Git",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-      },
-      {
-        "name": "GitHub",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-      }
-    ],
-    "softSkills": [
-      "Empatia",
-      "Liderança",
-      "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
-    ]
-  },
-  "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)"
-  ],
-  "portfolio": [
-    {
-      "name": "Pokedex",
-      "url": "https://github.com/nathanbrn/Pokedex",
-      "github": true
-    },
-    {
-      "name": "Links Sociais",
-      "url": "https://github.com/nathanbrn/Links_Sociais",
-      "github": true
-    },
-    {
-      "name": "Web Slider",
-      "url": "https://github.com/nathanbrn/Web_Slider",
-      "github": true
-    },
-    {
-      "name": "Cardápio Digital",
-      "url": "https://github.com/nathanbrn/Cardapio_digital",
-      "github": true
-    },
-    {
-      "name": "RocketPay",
-      "url": "https://github.com/nathanbrn/explorer_lab",
-      "github": true
-    },
-    {
-      "name": "TecBlog",
-      "url": "https://github.com/nathanbrn/Projeto_TecBlog",
-      "github": true
-    },
-    {
-      "name": "Chale Hotel",
-      "url": "https://github.com/nathanbrn/Projeto_ChaleHotel",
-      "github": true
-    },
-    {
-      "name": "Muséu Nacional",
-      "url": "https://github.com/nathanbrn/Projeto_MuseuNacional",
-      "github": true
-    },
-    {
-      "name": "Calculadora",
-      "url": "https://github.com/nathanbrn/Projeto_Calculadora",
-      "github": true
-    },
-    {
-      "name": "Orçamento Pessoal",
-      "url": "https://github.com/nathanbrn/Projeto_OrcamentoPessoal",
-      "github": true
-    },
-    {
-      "name": "Fábrica de Memes",
-      "url": "https://github.com/nathanbrn/Maratona_FabricaMemes",
-      "github": true
-    },
-    {
-      "name": "Orçamento Pessoal",
-      "url": "https://github.com/nathanbrn/Projeto_OrcamentoPessoal",
-      "github": true
-    },
-    {
-      "name": "Jogo Mata Mosca",
-      "url": "https://github.com/nathanbrn/Projeto_JogoMataMosca",
-      "github": true
-    },
-    {
-      "name": "WaiterApp API",
-      "url": "https://github.com/nathanbrn/WaiterAppApi",
-      "github": true
-    },
-    {
-      "name": "WaiterApp FrontEnd Cozinha",
-      "url": "https://github.com/nathanbrn/WaiterAppFrontEndCozinha",
-      "github": true
-    },
-    {
-      "name": "WaiterApp App",
-      "url": "https://github.com/nathanbrn/WaiterApp_App",
-      "github": true
-    },
-    {
-      "name": "OneBitLife",
-      "url": "https://github.com/nathanbrn/OneBitLife",
-      "github": true
-    },
-    {
-      "name": "WaiterApp App",
-      "url": "https://github.com/nathanbrn/WaiterApp_App",
-      "github": true
-    }
-  ],
-  "professionalExperience": [
-    {
-      "name": "Freelancer developer Front-end / T-Fitness Academia",
-      "period": "Set/2022",
-      "description": "Projeto desenvolvido para ajudar os alunos da academia, T-Fitness, à terem uma praticidade melhor nos treinos, sem perder tempo perguntando como é seu exercício, sendo assim uma melhoria na qualidade de tempo. Esse projeto foi desenvolvido para uso em smartphone, porém também pode ser usado em desktop."
-    }
-  ]
+	"name": "Breno N M Matos",
+	"photo": "https://avatars.githubusercontent.com/u/110872280?v=4",
+	"job": "Developer Front-end",
+	"location": "Ceará - CE",
+	"phone": "(88) 98117-4679",
+	"email": "brenonathanael@gmail.com",
+	"skills": {
+		"hardSkills": [
+			{
+				"name": "Nodejs",
+				"logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
+			},
+			{
+				"name": "JavaScript",
+				"logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+			},
+			{
+				"name": "TypeScript",
+				"logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+			},
+			{
+				"name": "Css",
+				"logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+			},
+			{
+				"name": "Html",
+				"logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+			},
+			{
+				"name": "Java",
+				"logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+			},
+			{
+				"name": "Python",
+				"logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+			},
+			{
+				"name": "React",
+				"logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+			},
+			{
+				"name": "Mongodb",
+				"logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+			},
+			{
+				"name": "MySQL",
+				"logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+			},
+			{
+				"name": "Git",
+				"logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+			},
+			{
+				"name": "GitHub",
+				"logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+			}
+		],
+		"softSkills": [
+			"Empatia",
+			"Liderança",
+			"Trabalho em equipe",
+			"Flexibilidade",
+			"Organização"
+		]
+	},
+	"languages": [
+		"Português BR",
+		"Inglês (intermediário)",
+		"Espanhol (intermediário)"
+	],
+	"portfolio": [
+		{
+			"name": "Pokedex",
+			"url": "https://github.com/nathanbrn/Pokedex",
+			"github": true
+		},
+		{
+			"name": "Links Sociais",
+			"url": "https://github.com/nathanbrn/Links_Sociais",
+			"github": true
+		},
+		{
+			"name": "Web Slider",
+			"url": "https://github.com/nathanbrn/Web_Slider",
+			"github": true
+		},
+		{
+			"name": "Cardápio Digital",
+			"url": "https://github.com/nathanbrn/Cardapio_digital",
+			"github": true
+		},
+		{
+			"name": "RocketPay",
+			"url": "https://github.com/nathanbrn/explorer_lab",
+			"github": true
+		},
+		{
+			"name": "Projeto Clima Bom - Sistema de clientes",
+			"url": "https://github.com/nathanbrn/ProjetoCassio",
+			"github": true
+		},
+		{
+			"name": "Fábrica de Memes",
+			"url": "https://github.com/nathanbrn/Maratona_FabricaMemes",
+			"github": true
+		},
+		{
+			"name": "Orçamento Pessoal",
+			"url": "https://github.com/nathanbrn/Projeto_OrcamentoPessoal",
+			"github": true
+		},
+		{
+			"name": "Jogo Mata Mosca",
+			"url": "https://github.com/nathanbrn/Projeto_JogoMataMosca",
+			"github": true
+		},
+		{
+			"name": "WaiterApp API",
+			"url": "https://github.com/nathanbrn/WaiterAppApi",
+			"github": true
+		},
+		{
+			"name": "WaiterApp FrontEnd Cozinha",
+			"url": "https://github.com/nathanbrn/WaiterAppFrontEndCozinha",
+			"github": true
+		},
+		{
+			"name": "WaiterApp App",
+			"url": "https://github.com/nathanbrn/WaiterApp_App",
+			"github": true
+		},
+		{
+			"name": "OneBitLife",
+			"url": "https://github.com/nathanbrn/OneBitLife",
+			"github": true
+		}
+	],
+	"professionalExperience": [
+		{
+			"name": "Freelancer developer Front-end / Big Lanches",
+			"period": "Set/2022 - Jan/2023",
+			"description": "Projeto desenvolvido para auxiliar os clientes nas escolas de seus alimentos."
+		},
+		{
+			"name": "Estágio - Técnico e Desenvolvedor - Academia T-Fitness",
+			"period": "Set/2022 - Jan/2023",
+			"description": "Manutenções em dispositivos, manuseio de sistema, aprimoramento de site de treinos com tecnologias vigentes do mercado, como ReactJS."
+		},
+		{
+			"name": "Freelancer developer Full Stack / Clima Bom",
+			"period": "Mar/2023 - Presente",
+			"description": "Projeto sendo desenvolvido com as tecnologias: React, Next, Electron, Nextron, Tailwind, Node, Express, Prisma. Projeto para cadastro e controle de clientes de uma empresa de manutenção de equipamentos de climatização e refrigeração."
+		}
+	]
 }
